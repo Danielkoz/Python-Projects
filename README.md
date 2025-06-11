@@ -227,18 +227,6 @@ To Run the Application:
 if __name__ == "__main__":
    app = SteganographyApp()
    app.run()
-
-References
-
-Steganography
-Image Link
-https://www.echomark.com/post/how-steganography-can-help-prevent-internal-information-theft
-650 × 233
-https://medium.com/advanced-deep-learning/decoding-image-representation-understanding-the-structure-of-rgb-images-6a211eb8800d
-960 × 720
-https://www.britannica.com/technology/binary-code
-826 × 315
-653 × 256
 1,600 × 675
 https://www.kaspersky.com/resource-center/definitions/what-is-steganography
 
